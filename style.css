@@ -49,18 +49,16 @@ h1 {
 
 }
 
+.btn-primary:active {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
+}
+
 .btn-primary:focus {
   background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 4px;
-  box-shadow: 0 0 0 #ee4b08 ;
-
+  box-shadow: 0 0 0 0;
 }
 
-.btn-primary:target {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  border-width: 4px;
-  box-shadow: 0 0 0 #ee4b08 ;
-
-}
